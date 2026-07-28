@@ -187,8 +187,6 @@ luansantosdasilva77@gmail.com
 
  LinkedIn
 
-SEU LINKEDIN
-
 www.linkedin.com/in/luan-santos-da-silva-1414ab369
 
  GitHub
