@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Luan Santos </h1>
 
 <h3 align="center">
-Desenvolvedor Back-end • Python • Django • Java
+Desenvolvedor Back-end/Full-Stack • Python • Django • Java
 </h3>
 
 <p align="center">
