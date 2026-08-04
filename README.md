@@ -26,7 +26,7 @@ Desenvolvo aplicações web com foco em organização, escalabilidade e resoluç
 
 # Portfólio - Luan Santos
 
-🚀 Acesse meu portfólio:
+ Acesse meu portfólio:
 
 https://luansantos-portfolio.vercel.app/
 
